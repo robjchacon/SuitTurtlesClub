@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xBaFf8fC0b1Dca96180C01819138aCe03eF1e6BBE",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xbaff8fc0b1dca96180c01819138ace03ef1e6bbe",
+  "CONTRACT_ADDRESS": "0xe7804c37c13166fF0b37F5aE0BB07A3aEbb6e245",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe7804c37c13166ff0b37f5ae0bb07a3aebb6e245",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/suit-turtles-club",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/suit-turtle-club",
   "SHOW_BACKGROUND": true
 }
