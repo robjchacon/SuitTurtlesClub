@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x784CDB88336052a6565EcBd3bB6C6875f213e78e",
+  "SCAN_LINK": "https://polygonscan.com/token/0x784cdb88336052a6565ecbd3bb6c6875f213e78e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Suit Turtles Club",
+  "SYMBOL": "STCNFT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 16,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/suitsturtlesclub",
+  "SHOW_BACKGROUND": true
+}
