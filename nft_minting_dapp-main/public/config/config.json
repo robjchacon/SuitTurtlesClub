@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 500,
   "WEI_COST": 15000000000000000000,
   "DISPLAY_COST": 15,
-  "GAS_LIMIT": 3000000,
+  "GAS_LIMIT": 350000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/suitturtlesclubpre",
   "SHOW_BACKGROUND": true
